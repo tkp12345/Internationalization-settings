@@ -1,0 +1,55 @@
+export const gray00 = 'rgb(255, 255, 255)'; // White
+export const gray100 = 'rgb(245, 245, 245)';
+export const gray200 = 'rgb(235, 235, 235)';
+export const gray300 = 'rgb(200, 200, 200)';
+export const gray400 = 'rgb(160, 160, 160)';
+export const gray500 = 'rgb(120, 120, 120)';
+export const gray600 = 'rgb(80, 80, 80)';
+export const gray700 = 'rgb(60, 60, 60)';
+export const gray800 = 'rgb(40, 40, 40)';
+export const gray900 = 'rgb(20, 20, 20)';
+export const gray950 = 'rgb(10, 10, 10)';
+
+export const red100 = 'rgb(255, 205, 210)';
+export const red200 = 'rgb(239, 154, 154)';
+export const red300 = 'rgb(229, 115, 115)';
+export const red400 = 'rgb(239, 83, 80)';
+export const red500 = 'rgb(244, 67, 54)';
+export const red600 = 'rgb(229, 57, 53)';
+export const red700 = 'rgb(211, 47, 47)';
+export const red800 = 'rgb(198, 40, 40)';
+export const red900 = 'rgb(183, 28, 28)';
+export const red950 = 'rgb(127, 17, 17)'; // Darker red
+
+export const blue100 = 'rgb(187, 222, 251)';
+export const blue200 = 'rgb(144, 202, 249)';
+export const blue300 = 'rgb(100, 181, 246)';
+export const blue400 = 'rgb(66, 165, 245)';
+export const blue500 = 'rgb(33, 150, 243)';
+export const blue600 = 'rgb(30, 136, 229)';
+export const blue700 = 'rgb(25, 118, 210)';
+export const blue800 = 'rgb(21, 101, 192)';
+export const blue900 = 'rgb(13, 71, 161)';
+export const blue950 = 'rgb(7, 41, 121)'; // Darker blue
+
+export const yellow100 = 'rgb(255, 249, 196)';
+export const yellow200 = 'rgb(255, 245, 157)';
+export const yellow300 = 'rgb(255, 241, 118)';
+export const yellow400 = 'rgb(255, 238, 88)';
+export const yellow500 = 'rgb(255, 235, 59)';
+export const yellow600 = 'rgb(253, 216, 53)';
+export const yellow700 = 'rgb(251, 192, 45)';
+export const yellow800 = 'rgb(249, 168, 37)';
+export const yellow900 = 'rgb(245, 127, 23)';
+export const yellow950 = 'rgb(194, 102, 16)'; // Darker yellow
+
+export const green100 = 'rgb(200, 230, 201)';
+export const green200 = 'rgb(165, 214, 167)';
+export const green300 = 'rgb(129, 199, 132)';
+export const green400 = 'rgb(102, 187, 106)';
+export const green500 = 'rgb(76, 175, 80)';
+export const green600 = 'rgb(67, 160, 71)';
+export const green700 = 'rgb(56, 142, 60)';
+export const green800 = 'rgb(46, 125, 50)';
+export const green900 = 'rgb(27, 94, 32)';
+export const green950 = 'rgb(14, 67, 21)'; // Darker green
