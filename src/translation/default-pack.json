@@ -1,0 +1,8 @@
+{
+    "default-language": "ko-KR",
+    "default-translations": {
+    "ko-KR": { "ko-KR": "한국어", "en-US": "영어", "ja-JP": "일본어" },
+    "en-US": { "ko-KR": "Korean", "en-US": "English", "ja-JP": "Japanese" },
+    "ja-JP": { "ko-KR": "韓国語", "en-US": "英語", "ja-JP": "日本語" }
+}
+}
